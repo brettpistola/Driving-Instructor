@@ -1,0 +1,141 @@
+[
+  {
+    "name": "The Right Gear Driving School",
+    "contact_name": "Chris",
+    "areas": [
+      "Adelaide East"
+    ],
+    "suburbs": [
+      "Rostrevor",
+      "Magill",
+      "Burnside",
+      "Norwood",
+      "Eastern suburbs (general)"
+    ],
+    "phone": "0466 237 863",
+    "email": "admin@therightgear.com.au",
+    "website": "https://therightgear.com.au/",
+    "notes": "Lessons + VORT prep/testing; location pages for Rostrevor/Magill/Burnside; contact details listed on pages.",
+    "source_url": "https://therightgear.com.au/driving-lessons-rostrevor/"
+  },
+  {
+    "name": "Mitcham Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide East",
+      "Adelaide Hills (meet-up)"
+    ],
+    "suburbs": [
+      "Burnside",
+      "Eastwood",
+      "Eastern suburbs (general)"
+    ],
+    "phone": "(08) 8271 8400",
+    "email": "martinw14@bigpond.com",
+    "website": "https://www.mitchamdrivingschool.com.au/",
+    "notes": "Manual + automatic; CBT&A and VORT; contact details shown on Burnside page.",
+    "source_url": "https://www.mitchamdrivingschool.com.au/driving-school-burnside"
+  },
+  {
+    "name": "Adelaide Driving Academy",
+    "contact_name": "",
+    "areas": [
+      "Adelaide East"
+    ],
+    "suburbs": [
+      "Burnside",
+      "Eastern suburbs (general)"
+    ],
+    "phone": "0430 430 590",
+    "email": "",
+    "website": "https://www.adelaidedrivingacademy.com.au/",
+    "notes": "Yellow Pages listing shows phone + website; based/servicing Burnside area.",
+    "source_url": "https://www.yellowpages.com.au/find/driving-lessons-schools/burnside-sa-5066"
+  },
+  {
+    "name": "Eastern Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide East"
+    ],
+    "suburbs": [
+      "Magill",
+      "Eastern suburbs (general)"
+    ],
+    "phone": "0400 165 889",
+    "email": "",
+    "website": "",
+    "notes": "Yellow Pages listing shows phone; Magill based.",
+    "source_url": "https://www.yellowpages.com.au/find/driving-lessons-schools/burnside-sa-5066"
+  },
+  {
+    "name": "Easy Learners Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide East"
+    ],
+    "suburbs": [
+      "Wattle Park",
+      "Beaumont",
+      "Burnside (general)"
+    ],
+    "phone": "0433 192 334",
+    "email": "",
+    "website": "",
+    "notes": "Yellow Pages listing shows phone; Wattle Park address listed.",
+    "source_url": "https://www.yellowpages.com.au/find/driving-lessons-schools/burnside-sa-5066"
+  },
+  {
+    "name": "Drive Smart Driving School (Adelaide)",
+    "contact_name": "Mark",
+    "areas": [
+      "Adelaide East",
+      "Adelaide North",
+      "Adelaide Central"
+    ],
+    "suburbs": [
+      "Norwood",
+      "Burnside",
+      "Rostrevor",
+      "Eastern suburbs (general)"
+    ],
+    "phone": "0418 812 399",
+    "email": "mark@drivesmartdrivingschool.com.au",
+    "website": "https://www.drivesmartdrivingschool.com.au/",
+    "notes": "Lists phone/email on site contact; has Norwood/Burnside/Rostrevor lesson pages.",
+    "source_url": "https://www.drivesmartdrivingschool.com.au/product-category/norwood/"
+  },
+  {
+    "name": "2Pass Driving School Adelaide",
+    "contact_name": "Ali Nuroozi",
+    "areas": [
+      "Adelaide East",
+      "Adelaide North"
+    ],
+    "suburbs": [
+      "Norwood",
+      "Magill",
+      "Eastern suburbs (general)"
+    ],
+    "phone": "0423 493 115",
+    "email": "info@2passdrivingschool.com.au",
+    "website": "https://2passdrivingschool.com.au/",
+    "notes": "Suburb pages include Norwood and Magill; phone listed publicly on listings and site.",
+    "source_url": "https://2passdrivingschool.com.au/Suburb/Norwood-5067"
+  },
+  {
+    "name": "RAA Driving School (SA)",
+    "contact_name": "",
+    "areas": [
+      "Adelaide Metro (incl. East)"
+    ],
+    "suburbs": [
+      "Adelaide Metro (varies)"
+    ],
+    "phone": "",
+    "email": "",
+    "website": "https://www.raa.com.au/motor/driving-school/driving-lessons",
+    "notes": "RAA provides accredited instructors for logbook (CBT&A) and VORT prep; coverage varies by instructor.",
+    "source_url": "https://www.raa.com.au/motor/driving-school/driving-lessons"
+  }
+]

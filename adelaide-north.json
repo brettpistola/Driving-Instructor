@@ -1,0 +1,173 @@
+[
+  {
+    "name": "2Pass Driving School Adelaide",
+    "contact_name": "Ali Nuroozi (trainer listed for Salisbury Park)",
+    "areas": [
+      "Adelaide North"
+    ],
+    "suburbs": [
+      "Salisbury Park",
+      "Salisbury North",
+      "Salisbury Plain",
+      "Salisbury South",
+      "Sefton Park"
+    ],
+    "phone": "0423 493 115",
+    "email": "info@2passdrivingschool.com.au",
+    "website": "https://2passdrivingschool.com.au/",
+    "notes": "VORT-focused; online booking; trainer pages by suburb.",
+    "source_url": "https://2passdrivingschool.com.au/Suburb/Salisbury-Park-5109"
+  },
+  {
+    "name": "All Pass Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide North",
+      "Adelaide North East"
+    ],
+    "suburbs": [
+      "Brahma Lodge",
+      "Golden Grove",
+      "Mawson Lakes"
+    ],
+    "phone": "0409 670 151",
+    "email": "allpass@live.com",
+    "website": "https://allpassdrivingschool.com.au/",
+    "notes": "Website lists contact and VORT/CBT&A focus.",
+    "source_url": "https://allpassdrivingschool.com.au/contact-us"
+  },
+  {
+    "name": "JD's Driving Academy",
+    "contact_name": "",
+    "areas": [
+      "Adelaide North"
+    ],
+    "suburbs": [
+      "Parafield Gardens",
+      "Salisbury area"
+    ],
+    "phone": "0433 994 172",
+    "email": "",
+    "website": "https://www.jdsdrivingacademy.com.au/",
+    "notes": "Contact page lists phone; also listed in Parafield Gardens.",
+    "source_url": "https://www.jdsdrivingacademy.com.au/contact-us/"
+  },
+  {
+    "name": "U Learn Driving School",
+    "contact_name": "Matthew Woodman",
+    "areas": [
+      "Adelaide North East",
+      "Adelaide North"
+    ],
+    "suburbs": [
+      "Golden Grove",
+      "Greenwith",
+      "Wynn Vale",
+      "Fairview Park",
+      "Gulfview Heights",
+      "Salisbury Heights"
+    ],
+    "phone": "0402 159 553",
+    "email": "ulearndriving@gmail.com",
+    "website": "https://ulearndrivingschool.com.au/",
+    "notes": "Golden Grove-based; contact page lists phone/email; mentions PDTASA membership.",
+    "source_url": "https://ulearndrivingschool.com.au/contact/"
+  },
+  {
+    "name": "Drive Smart Driving School (Adelaide)",
+    "contact_name": "Mark (proprietor listed)",
+    "areas": [
+      "Adelaide North",
+      "Adelaide East",
+      "Adelaide Central"
+    ],
+    "suburbs": [
+      "Brahma Lodge (listed contact)",
+      "Northern suburbs (general)"
+    ],
+    "phone": "0418 812 399",
+    "email": "mark@drivesmartdrivingschool.com.au",
+    "website": "https://www.drivesmartdrivingschool.com.au/",
+    "notes": "Site lists phone/email on contact page.",
+    "source_url": "https://www.drivesmartdrivingschool.com.au/contact-drive-smart-driving-school/"
+  },
+  {
+    "name": "Safe Drive SA",
+    "contact_name": "",
+    "areas": [
+      "Adelaide North",
+      "Adelaide Metro"
+    ],
+    "suburbs": [
+      "Mawson Lakes (listing)"
+    ],
+    "phone": "0406 001 212",
+    "email": "",
+    "website": "https://safedrivesa.com.au/",
+    "notes": "Public listing shows phone; website has pricing and instructor info pages.",
+    "source_url": "https://www.yellowpages.com.au/sa/mawson-lakes/safe-drive-sa-1000002297514-listing.html"
+  },
+  {
+    "name": "Ezyway Driver Training",
+    "contact_name": "",
+    "areas": [
+      "Adelaide North"
+    ],
+    "suburbs": [
+      "Salisbury East"
+    ],
+    "phone": "(08) 8285 5959",
+    "email": "",
+    "website": "",
+    "notes": "Public listing shows phone in Salisbury East.",
+    "source_url": "https://www.yellowpages.com.au/sa/salisbury-east/ezyway-driver-training-11931348-listing.html"
+  },
+  {
+    "name": "Straight Line Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide North East",
+      "Adelaide North"
+    ],
+    "suburbs": [
+      "Hope Valley",
+      "North Eastern suburbs (general)"
+    ],
+    "phone": "0413 875 119",
+    "email": "",
+    "website": "https://straightlinedriving.com.au/",
+    "notes": "Website lists call/SMS number; serves North Eastern suburbs.",
+    "source_url": "https://straightlinedriving.com.au/"
+  },
+  {
+    "name": "Ultra Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide North"
+    ],
+    "suburbs": [
+      "Salisbury East",
+      "Golden Grove (directory listings)"
+    ],
+    "phone": "0420 776 450",
+    "email": "",
+    "website": "https://www.ultradrivingschool.com.au/",
+    "notes": "Contact page lists phone.",
+    "source_url": "https://www.ultradrivingschool.com.au/contact-us/"
+  },
+  {
+    "name": "Drive Torque Driver Training",
+    "contact_name": "",
+    "areas": [
+      "Adelaide North"
+    ],
+    "suburbs": [
+      "Paralowie"
+    ],
+    "phone": "0432 269 796",
+    "email": "",
+    "website": "http://www.drivetorque.com.au",
+    "notes": "Public listing shows mobile; other directories list website.",
+    "source_url": "https://www.yellowpages.com.au/sa/paralowie/drive-torque-driver-training-12462596-listing.html"
+  }
+]

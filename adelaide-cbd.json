@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Central Adelaide Driving (CADS)",
+    "contact_name": "",
+    "areas": [
+      "Adelaide CBD"
+    ],
+    "suburbs": [
+      "Adelaide CBD",
+      "Inner city (start/finish in CBD)"
+    ],
+    "phone": "",
+    "email": "",
+    "website": "https://centraladelaide.com.au/",
+    "notes": "Lessons start/finish in Adelaide CBD; pricing listed on site (90 min).",
+    "source_url": "https://centraladelaide.com.au/"
+  },
+  {
+    "name": "RAA Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide CBD",
+      "Adelaide Metro"
+    ],
+    "suburbs": [
+      "Adelaide Metro (pick-up by instructor)"
+    ],
+    "phone": "8202 4444",
+    "email": "",
+    "website": "https://www.raa.com.au/motor/driving-school/driving-lessons",
+    "notes": "SA's largest driving school; CBT&A (logbook) + VORT prep; member/non-member pricing shown online.",
+    "source_url": "https://www.raa.com.au/motor/driving-school/driving-lessons"
+  },
+  {
+    "name": "Adelaide School of Driving (ASOD)",
+    "contact_name": "",
+    "areas": [
+      "Adelaide CBD",
+      "Adelaide Metro"
+    ],
+    "suburbs": [
+      "Adelaide (metro)"
+    ],
+    "phone": "(08) 7324 4992",
+    "email": "",
+    "website": "https://www.adelaideschoolofdriving.com.au/",
+    "notes": "Adelaide-based driving school; phone listed on site for bookings.",
+    "source_url": "https://www.adelaideschoolofdriving.com.au/"
+  },
+  {
+    "name": "Headrite Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide CBD",
+      "Adelaide Metro"
+    ],
+    "suburbs": [
+      "Adelaide (metro)"
+    ],
+    "phone": "",
+    "email": "",
+    "website": "https://headritedrivingschool.com.au/",
+    "notes": "Qualified instructors; offers CBT&A or VORT; manual and auto (per site).",
+    "source_url": "https://headritedrivingschool.com.au/"
+  },
+  {
+    "name": "Adelaide Driver Training Academy SA",
+    "contact_name": "",
+    "areas": [
+      "Adelaide CBD",
+      "Adelaide Metro"
+    ],
+    "suburbs": [
+      "Adelaide (metro)"
+    ],
+    "phone": "",
+    "email": "",
+    "website": "https://adelaidedrivertrainingacademysa.com.au/",
+    "notes": "Offers automatic/manual; CBT&A and VORT (per site).",
+    "source_url": "https://adelaidedrivertrainingacademysa.com.au/"
+  },
+  {
+    "name": "Learn To Drive Adelaide",
+    "contact_name": "",
+    "areas": [
+      "Adelaide CBD",
+      "Adelaide Metro"
+    ],
+    "suburbs": [
+      "Adelaide (metro)"
+    ],
+    "phone": "",
+    "email": "",
+    "website": "https://adldrivertraining.com.au/",
+    "notes": "Driving lessons + VORT preparation; accredited; info on site.",
+    "source_url": "https://adldrivertraining.com.au/"
+  },
+  {
+    "name": "Instinctive Driving",
+    "contact_name": "",
+    "areas": [
+      "Adelaide CBD",
+      "Adelaide Metro"
+    ],
+    "suburbs": [
+      "Metropolitan Adelaide"
+    ],
+    "phone": "",
+    "email": "",
+    "website": "https://www.instinctivedriving.com.au/",
+    "notes": "Services metropolitan Adelaide; office hours and reviews shown on site.",
+    "source_url": "https://www.instinctivedriving.com.au/"
+  },
+  {
+    "name": "EzLicence (Adelaide CBD bookings marketplace)",
+    "contact_name": "",
+    "areas": [
+      "Adelaide CBD"
+    ],
+    "suburbs": [
+      "Adelaide CBD"
+    ],
+    "phone": "",
+    "email": "",
+    "website": "https://www.ezlicence.com.au/driving-instructors/sa/adelaide-cbd",
+    "notes": "Booking platform listing instructors servicing Adelaide CBD (names/ratings vary).",
+    "source_url": "https://www.ezlicence.com.au/driving-instructors/sa/adelaide-cbd"
+  }
+]

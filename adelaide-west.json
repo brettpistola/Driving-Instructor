@@ -1,0 +1,140 @@
+[
+  {
+    "name": "One Way Driving School",
+    "contact_name": "Gene",
+    "areas": [
+      "Adelaide West"
+    ],
+    "suburbs": [
+      "Henley Beach",
+      "West Lakes",
+      "Findon",
+      "Seaton (general west)"
+    ],
+    "phone": "0404 886 153",
+    "email": "",
+    "website": "https://onewaydrivingschool.com.au/",
+    "notes": "Phone listed on site; Henley Beach listing; safe driving habits focus.",
+    "source_url": "https://onewaydrivingschool.com.au/"
+  },
+  {
+    "name": "Give Way Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide West"
+    ],
+    "suburbs": [
+      "Port Adelaide",
+      "Western suburbs (general)"
+    ],
+    "phone": "0402 814 572",
+    "email": "",
+    "website": "https://www.givewaydriving.com.au/",
+    "notes": "Site states Port Adelaide & western suburbs coverage; Yellow Pages lists phone.",
+    "source_url": "https://www.givewaydriving.com.au/"
+  },
+  {
+    "name": "ADL Driving School (West Beach)",
+    "contact_name": "",
+    "areas": [
+      "Adelaide West"
+    ],
+    "suburbs": [
+      "West Beach",
+      "Glenelg",
+      "Henley Beach (general west)"
+    ],
+    "phone": "0410 032 564",
+    "email": "learn@adldrivingschool.com.au",
+    "website": "https://adldrivingschool.com.au/",
+    "notes": "Bookings page lists phone and email; West Beach base.",
+    "source_url": "https://adldrivingschool.com.au/bookings"
+  },
+  {
+    "name": "Approved Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide West"
+    ],
+    "suburbs": [
+      "Seaton",
+      "West Lakes",
+      "Findon (general west)"
+    ],
+    "phone": "0405 470 126",
+    "email": "",
+    "website": "https://approveddrivingschool.com.au/",
+    "notes": "Listed in Yellow Pages (Seaton) with website + phone.",
+    "source_url": "https://www.yellowpages.com.au/find/driving-lessons-schools/west-lakes-sa-5021"
+  },
+  {
+    "name": "Adelaide West Driver Training",
+    "contact_name": "",
+    "areas": [
+      "Adelaide West"
+    ],
+    "suburbs": [
+      "West Lakes",
+      "Seaton",
+      "Findon (general west)"
+    ],
+    "phone": "0402 639 352",
+    "email": "",
+    "website": "",
+    "notes": "Listed in Yellow Pages (West Lakes search) with phone; website shown in listing.",
+    "source_url": "https://www.yellowpages.com.au/find/driving-lessons-schools/west-lakes-sa-5021"
+  },
+  {
+    "name": "Courtesy Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide West"
+    ],
+    "suburbs": [
+      "Wingfield",
+      "Port Adelaide (industrial west/northwest)"
+    ],
+    "phone": "(08) 8345 4911",
+    "email": "",
+    "website": "",
+    "notes": "Listed in Yellow Pages (Wingfield) with website + phone.",
+    "source_url": "https://www.yellowpages.com.au/find/driving-lessons-schools/west-lakes-sa-5021"
+  },
+  {
+    "name": "Bayside Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide West",
+      "Adelaide South"
+    ],
+    "suburbs": [
+      "Glenelg",
+      "Somerton Park",
+      "West Beach",
+      "Brighton"
+    ],
+    "phone": "0412 227 717",
+    "email": "",
+    "website": "https://www.baysidedrivingschool.com.au/",
+    "notes": "Site states western (bayside) suburbs incl. Glenelg; phone shown on site.",
+    "source_url": "https://www.baysidedrivingschool.com.au/"
+  },
+  {
+    "name": "Mitcham Driving School (Glenelg)",
+    "contact_name": "",
+    "areas": [
+      "Adelaide West",
+      "Adelaide East"
+    ],
+    "suburbs": [
+      "Glenelg",
+      "West Beach",
+      "Bayside (general)"
+    ],
+    "phone": "(08) 8271 8400",
+    "email": "martinw14@bigpond.com",
+    "website": "https://www.mitchamdrivingschool.com.au/",
+    "notes": "Has Glenelg page; long-running school; contact details on site.",
+    "source_url": "https://www.mitchamdrivingschool.com.au/driving-school-glenelg"
+  }
+]

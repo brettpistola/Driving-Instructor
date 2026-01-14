@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Marion Budget Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide South"
+    ],
+    "suburbs": [
+      "Marion",
+      "Oaklands Park",
+      "Seacombe Gardens",
+      "Parkholme",
+      "Hove"
+    ],
+    "phone": "0403 658 031",
+    "email": "",
+    "website": "https://mbdsa.com.au/",
+    "notes": "Advertises lessons from $100/hr; Marion-based service radius ~10km.",
+    "source_url": "https://mbdsa.com.au/"
+  },
+  {
+    "name": "Marion Driving School",
+    "contact_name": "Daryl (instructor referenced in reviews)",
+    "areas": [
+      "Adelaide South",
+      "Adelaide West"
+    ],
+    "suburbs": [
+      "Marion",
+      "Glenelg",
+      "Brighton",
+      "Seacliff",
+      "St Marys",
+      "Unley",
+      "West Beach"
+    ],
+    "phone": "0408 811 815",
+    "email": "",
+    "website": "https://www.mariondrivingschool.com.au/",
+    "notes": "Automatic CBT&A lessons; lists Adelaide service area suburbs.",
+    "source_url": "https://www.mariondrivingschool.com.au/"
+  },
+  {
+    "name": "Knights Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide South"
+    ],
+    "suburbs": [
+      "Morphett Vale",
+      "Noarlunga",
+      "Christies Beach",
+      "Seaford"
+    ],
+    "phone": "(08) 8382 5843",
+    "email": "info@knightsdrivingschool.com.au",
+    "website": "https://knightsdrivingschool.com.au/",
+    "notes": "Former RAA instructor; automatic dual-control cars; CBT&A.",
+    "source_url": "https://knightsdrivingschool.com.au/"
+  },
+  {
+    "name": "IJ Driver Training",
+    "contact_name": "Ivan Juric",
+    "areas": [
+      "Adelaide South"
+    ],
+    "suburbs": [
+      "Woodcroft",
+      "Hallett Cove",
+      "Marion",
+      "Brighton",
+      "Morphett Vale",
+      "Happy Valley",
+      "Glenelg"
+    ],
+    "phone": "0411 424 080",
+    "email": "",
+    "website": "https://ijdrivertraining.com.au/",
+    "notes": "CBT&A and VORT; southern suburbs coverage stated on site.",
+    "source_url": "https://ijdrivertraining.com.au/"
+  },
+  {
+    "name": "Learn 2 Pass Driving Education",
+    "contact_name": "Maziar / Jessica",
+    "areas": [
+      "Adelaide South"
+    ],
+    "suburbs": [
+      "Morphett Vale",
+      "Noarlunga",
+      "Christies Beach",
+      "Seaford"
+    ],
+    "phone": "0421 274 171 / 0417 837 657",
+    "email": "",
+    "website": "https://learn2passdriving.com.au/",
+    "notes": "Team of instructors; call-to-book numbers listed on site.",
+    "source_url": "https://learn2passdriving.com.au/"
+  },
+  {
+    "name": "Safe Stop Driving Academy (Hallett Cove / Noarlunga area)",
+    "contact_name": "Wade Whitwell",
+    "areas": [
+      "Adelaide South"
+    ],
+    "suburbs": [
+      "Hallett Cove",
+      "Noarlunga Downs",
+      "Sheidow Park",
+      "Christies Beach (general area)"
+    ],
+    "phone": "0468 412 172",
+    "email": "contact@safestopda.com.au",
+    "website": "https://safestopda.com.au/",
+    "notes": "Automatic lessons; online booking; Afterpay/Zip mentioned; instructor listing by suburb.",
+    "source_url": "https://safestopda.com.au/Suburb/HALLETT-COVE-5158"
+  },
+  {
+    "name": "Roundabout Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide South"
+    ],
+    "suburbs": [
+      "Christies Beach",
+      "Noarlunga",
+      "Seaford",
+      "Aldinga Beach"
+    ],
+    "phone": "",
+    "email": "",
+    "website": "https://roundaboutdrivingschool.com.au/",
+    "notes": "Service area Christie’s Beach to Aldinga; VORT conducted in Noarlunga; 90 min $150; VORT test $400.",
+    "source_url": "https://roundaboutdrivingschool.com.au/"
+  },
+  {
+    "name": "Thompson Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide South"
+    ],
+    "suburbs": [
+      "Brighton",
+      "Noarlunga",
+      "Morphett Vale",
+      "Seaford",
+      "Glenelg"
+    ],
+    "phone": "",
+    "email": "",
+    "website": "https://www.thompsondrivingschool.com.au/",
+    "notes": "VORT instructor; suburbs serviced Glenelg to Seaford; pricing: 60 min $100, 90 min $140, VORT $350.",
+    "source_url": "https://www.thompsondrivingschool.com.au/"
+  }
+]

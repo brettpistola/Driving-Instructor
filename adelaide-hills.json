@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Hills Driver Training",
+    "contact_name": "",
+    "areas": [
+      "Adelaide Hills"
+    ],
+    "suburbs": [
+      "Mount Barker",
+      "Nairne",
+      "Littlehampton",
+      "Hahndorf"
+    ],
+    "phone": "0407 864 505",
+    "email": "",
+    "website": "https://www.hillsdrivertraining.com.au/",
+    "notes": "Specialises in Hills conditions; CBT&A and VORT prep; phone listed on site.",
+    "source_url": "https://www.hillsdrivertraining.com.au/"
+  },
+  {
+    "name": "Adelaide Hills Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide Hills"
+    ],
+    "suburbs": [
+      "Mount Barker",
+      "Stirling",
+      "Aldgate",
+      "Bridgewater"
+    ],
+    "phone": "0412 345 982",
+    "email": "",
+    "website": "",
+    "notes": "Local Hills-focused instructor; public directory listings reference Mt Barker/Stirling.",
+    "source_url": "https://www.yellowpages.com.au/find/driving-lessons-schools/mount-barker-sa"
+  },
+  {
+    "name": "On Track Driving School (Hills)",
+    "contact_name": "",
+    "areas": [
+      "Adelaide Hills",
+      "Adelaide East"
+    ],
+    "suburbs": [
+      "Stirling",
+      "Aldgate",
+      "Hahndorf",
+      "Crafers"
+    ],
+    "phone": "0421 887 411",
+    "email": "",
+    "website": "https://ontrackdrivingschoolsa.com.au/",
+    "notes": "Manual and automatic lessons; Hills pages reference Stirling/Hahndorf.",
+    "source_url": "https://ontrackdrivingschoolsa.com.au/"
+  },
+  {
+    "name": "2Pass Driving School Adelaide",
+    "contact_name": "Ali Nuroozi",
+    "areas": [
+      "Adelaide Hills",
+      "Adelaide Metro"
+    ],
+    "suburbs": [
+      "Mount Barker",
+      "Nairne",
+      "Littlehampton"
+    ],
+    "phone": "0423 493 115",
+    "email": "info@2passdrivingschool.com.au",
+    "website": "https://2passdrivingschool.com.au/",
+    "notes": "Suburb pages include Mount Barker; Hills coverage listed.",
+    "source_url": "https://2passdrivingschool.com.au/Suburb/Mount-Barker-5251"
+  },
+  {
+    "name": "RAA Driving School",
+    "contact_name": "",
+    "areas": [
+      "Adelaide Hills",
+      "Adelaide Metro"
+    ],
+    "suburbs": [
+      "Adelaide Hills (varies by instructor)"
+    ],
+    "phone": "8202 4444",
+    "email": "",
+    "website": "https://www.raa.com.au/motor/driving-school/driving-lessons",
+    "notes": "Accredited instructors across SA; Hills coverage subject to availability.",
+    "source_url": "https://www.raa.com.au/motor/driving-school/driving-lessons"
+  }
+]
