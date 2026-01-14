@@ -1,30 +1,44 @@
-// Simple client-side sort for the instructors table (by rating or price).
-(function(){
-  const table = document.querySelector('[data-sort-table="1"]');
-  if(!table) return;
-  const tbody = table.querySelector('tbody');
-  const rows = Array.from(tbody.querySelectorAll('tr'));
+ // Hamburger menu functionality
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    const body = document.body;
 
-  function parsePrice(s){
-    const m = (s||'').replace(/[^0-9.]/g,'');
-    return m ? parseFloat(m) : Number.POSITIVE_INFINITY;
-  }
-  function sortRows(mode){
-    const sorted = rows.slice().sort((a,b)=>{
-      if(mode==='rating'){
-        return (parseFloat(b.dataset.rating||'0') - parseFloat(a.dataset.rating||'0'));
-      }
-      if(mode==='price'){
-        return (parsePrice(a.dataset.price) - parsePrice(b.dataset.price));
-      }
-      return 0;
+    menuToggle.addEventListener('click', function() {
+      const isActive = this.classList.toggle('active');
+      navLinks.classList.toggle('active');
+      body.classList.toggle('menu-open');
+      this.setAttribute('aria-expanded', isActive);
     });
-    sorted.forEach(r=>tbody.appendChild(r));
-  }
 
-  const ratingBtn = document.querySelector('[data-sort="rating"]');
-  const priceBtn = document.querySelector('[data-sort="price"]');
+    // Close menu when clicking on a link
+    const links = document.querySelectorAll('.nav-links a');
+    links.forEach(link => {
+      link.addEventListener('click', function() {
+        menuToggle.classList.remove('active');
+        navLinks.classList.remove('active');
+        body.classList.remove('menu-open');
+        menuToggle.setAttribute('aria-expanded', 'false');
+      });
+    });
 
-  ratingBtn && ratingBtn.addEventListener('click', ()=>sortRows('rating'));
-  priceBtn && priceBtn.addEventListener('click', ()=>sortRows('price'));
-})();
+    // Close menu when clicking outside
+    document.addEventListener('click', function(event) {
+      const isClickInside = menuToggle.contains(event.target) || navLinks.contains(event.target);
+
+      if (!isClickInside && navLinks.classList.contains('active')) {
+        menuToggle.classList.remove('active');
+        navLinks.classList.remove('active');
+        body.classList.remove('menu-open');
+        menuToggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+
+    // Handle window resize
+    window.addEventListener('resize', function() {
+      if (window.innerWidth > 1024) {
+        menuToggle.classList.remove('active');
+        navLinks.classList.remove('active');
+        body.classList.remove('menu-open');
+        menuToggle.setAttribute('aria-expanded', 'false');
+      }
+    });
