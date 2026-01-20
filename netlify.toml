@@ -1,8 +1,9 @@
 # Netlify configuration for Driving Instructors Adelaide
-# Static HTML site - no build step required
+# Static HTML site
 
 [build]
-  # No build command needed for static HTML site
+  # Build command for static HTML site
+  command = "echo 'Building static site...'"
   publish = "."
 
 # Enable pretty URLs (removes trailing /index.html from URLs)
